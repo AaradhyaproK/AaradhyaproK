@@ -1,72 +1,62 @@
-# 🛠️ Aaradhya Pathak | Full Stack Web Developer
+# ⚡ Aaradhya Pathak | MERN & AI Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;AI+Enthusiast+%26+Engineer;Problem+Solver+at+Core" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/AIR-64-red?style=for-the-badge&label=NEC%20Ranking" alt="AIR 64 Ranking" />
+  <img src="https://img.shields.io/badge/Rank-2nd-blue?style=for-the-badge&label=Startup%20Arena" alt="2nd Rank Startup Arena" />
+  <img src="https://img.shields.io/badge/SGPA-9.07-green?style=for-the-badge&label=Academic" alt="SGPA 9.07" />
 </p>
 
----
-
-### 👨‍💻 About Me
-I am a passionate **Full Stack Developer** proficient in the **MERN stack** with a strong foundation in Data Structures and Algorithms. I specialize in building robust web applications and AI-driven platforms that solve real-world problems.
-
-- 🏆 **Recent Win:** Secured 2nd Rank at **Startup Arena 2.0 (IIT Bombay)**.
-- 🔭 **Currently working on:** Expanding my expertise in PHP and SEO strategies.
-- 🌱 **Learning:** Deepening my knowledge in TensorFlow and AI Prompt Engineering.
-- ♟️ **Fun Fact:** I’ve represented my college in **Competitive Chess** at the Divisional Level.
+### 📈 Key Engineering Metrics
+- [cite_start]**4000+ Teams Competed:** Led my team to a top 2% finish in the National Entrepreneurship Challenge (NEC)[cite: 67].
+- [cite_start]**350+ Professionals:** Scaled a legal recommendation platform to 350+ registered lawyers[cite: 54].
+- [cite_start]**Top 10 Finalist:** Achieved recognition among elite developers at the GenAI Hackathon[cite: 43].
+- [cite_start]**4000 Users:** Engineered a registration platform that successfully managed high-volume traffic for 'Tech Guru'[cite: 48].
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Technical Arsenal
 
-| Category | Technologies |
+| Category | Skillset |
 | :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
-| **AI & ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_AI-8E75C2?style=for-the-badge&logo=google&logoColor=white) |
+| **Frontend** | [cite_start]React JS, HTML5, CSS3, Data Analysis [cite: 56] |
+| **Backend** | [cite_start]Node.js, Express.js, PHP, JavaScript [cite: 9, 31, 56] |
+| **Databases** | [cite_start]MongoDB, SQL, Firebase [cite: 56] |
+| **AI / Tools** | [cite_start]TensorFlow, Gemini, AssemblyAI, Cloudinary [cite: 43, 56] |
+| **Languages** | [cite_start]Java (DSA Specialist), Python, C++ [cite: 9, 56] |
 
 ---
 
-### 🌟 Featured Projects
+### 🏆 Milestone Timeline
 
-#### 🤖 [AI Base - Interview Platform](https://github.com/YourUsername/AI-Base)
-* **Description:** AI-powered platform for enhanced candidate assessment.
-* **Recognition:** Top 10 at GenAI Hackathon.
-* **Tech:** Gemini API, AssemblyAI, React JS.
-
-#### 💳 [PayTrackPro](https://github.com/YourUsername/PayTrackPro)
-* **Description:** A comprehensive end-to-end web solution for financial tracking.
-* **Role:** Spearheaded design to deployment.
-* **Tech:** PHP, MySQL, Responsive Design.
-
-#### ⚖️ [Smart Lawyer Recommendation](https://github.com/YourUsername/Smart-Lawyer)
-* **Description:** System recommending lawyers based on problem type, location, and ratings.
-* **Impact:** 350+ lawyers registered.
+- [cite_start]**2025 (Present):** Finalist at **IIT Bombay** (NEC) and Web Designer at Chittaranjan Info Solutions[cite: 19, 21, 27].
+- [cite_start]**2025 (Q2):** Launched **AI Base**, an automated interview platform using Gemini API[cite: 42, 43].
+- [cite_start]**2025 (Q1):** Junior Web Developer Intern at Manasvi Tech Solution; developed **'PixelFlow'**[cite: 33, 34, 36].
+- [cite_start]**2024:** Certified **Microsoft Web Development Graduate** and Tata Cybersecurity Analyst.
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="Aaradhya's Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
-</p>
+### 📂 High-Impact Projects
+
+#### 🤖 [AI Base - Interview Platform](https://github.com/Aaradhyaprok/AI-Base)
+> [cite_start]**Stack:** Gemini, AssemblyAI, React JS, Firebase[cite: 43].
+- [cite_start]Built an automated assessment tool that reached **Top 10** at a GenAI Hackathon[cite: 43].
+- [cite_start]Integrated Cloudinary for media management and Netlify for optimized hosting[cite: 43].
+
+#### 💳 [PayTrackPro](https://github.com/Aaradhyaprok/PayTrackPro)
+> [cite_start]**Stack:** PHP, SEO Strategies, Responsive Design[cite: 29, 31, 32].
+- [cite_start]Spearheaded end-to-end development while working at Chittaranjan Info Solutions[cite: 27, 29].
+- [cite_start]Implemented **SEO strategies** to improve online presence and brand traffic[cite: 32].
 
 ---
 
-### 🏆 Recognitions
-* **2nd Rank** - Startup Arena 2.0 (Road to Enterprise 2025).
-* **National Finalist** - NEC 2025 (IIT Bombay).
-* **AIR 64** - Led IEDC team in National Entrepreneurship Challenge.
-* **GeeksforGeeks** - Recognized for DSA and Problem Solving.
+### ♟️ Beyond the Code
+- [cite_start]**Leadership:** Headed the AI Prompting event for Tech Guru and served as Design Head for IEDC[cite: 69, 71].
+- [cite_start]**Community:** Active Volunteer at **GDG Nashik** (Google Developer Group)[cite: 70].
+- [cite_start]**Strategy:** Divisional Level **Competitive Chess** player[cite: 75].
 
 ---
 
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaradhyapathak17)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolioaaradhya.netlify.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaradhya1774@gmail.com)
-
----
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&column=7" alt="Trophies" />
-</p>
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaradhyapathak17) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://portfolioaaradhya.netlify.app) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aaradhya1774@gmail.com)
