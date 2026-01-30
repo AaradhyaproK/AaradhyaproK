@@ -11,13 +11,13 @@
   <img src="https://img.shields.io/badge/SGPA-9.07-green?style=for-the-badge&logo=googlescholar&logoColor=white" alt="SGPA 9.07" />
 </p>
 
-### 👨‍💻 Executive Summary
-[cite_start]I am a **Full Stack Web Developer** proficient in the **MERN stack** [cite: 9] [cite_start]with a strong foundation in **Data Structures and Algorithms (Java)**[cite: 9, 24]. [cite_start]I specialize in building AI-driven platforms and robust business solutions[cite: 10, 11].
+### 👨‍💻 Professional Summary
+I am a **Full Stack Web Developer** proficient in the **MERN stack** with a strong foundation in **Data Structures and Algorithms (Java)**. I specialize in building AI-driven platforms and robust business solutions that scale.
 
-- [cite_start]🏆 **Startup Arena 2.0:** Secured **2nd Prize** and reached the Zonal Round at **IIT Bombay**[cite: 18, 60, 61].
-- [cite_start]🤖 **AI Innovation:** Achieved **Top 10** at a GenAI Hackathon for "AI Base"[cite: 43].
-- [cite_start]📈 **Leadership:** Led a team of 4000+ to secure **AIR 64** in the National Entrepreneurship Challenge.
-- [cite_start]💻 **Professional:** Currently delivering **PHP & SEO** solutions at Chittaranjan Info Solutions[cite: 27, 28, 32].
+- 🏆 **Startup Arena 2.0:** Secured **2nd Prize** and was selected for the Zonal Round at **IIT Bombay**.
+- 🤖 **AI Innovation:** Achieved **Top 10** recognition at a GenAI Hackathon for "AI Base".
+- 📈 **Leadership:** Led an IEDC team of 4,000+ members to secure **AIR 64** nationally.
+- 💻 **Experience:** Currently delivering **PHP & SEO** strategies at Chittaranjan Info Solutions.
 
 ---
 
@@ -34,26 +34,30 @@
 
 | Project | Key Tech | Outcome/Impact |
 | :--- | :--- | :--- |
-| **🤖 AI Base** | Gemini, AssemblyAI, React | [cite_start]**Top 10 Recognition** at GenAI Hackathon [cite: 43] |
-| **⚖️ Smart Lawyer** | Node.js, MongoDB, React | [cite_start]Scaled to **350+ registered** professionals  |
-| **💰 PayTrackPro** | PHP, MySQL, SEO | [cite_start]Spearheaded end-to-end development [cite: 29] |
-| **📅 Tech Guru** | JavaScript, JSON | [cite_start]Managed **4000+ user registrations** [cite: 48, 49] |
+| **🤖 AI Base** | Gemini, AssemblyAI, React | **Top 10 Recognition** at GenAI Hackathon |
+| **⚖️ Smart Lawyer** | Node.js, MongoDB, React | Scaled to **350+ registered** professionals |
+| **💰 PayTrackPro** | PHP, MySQL, SEO | Spearheaded end-to-end design & deployment |
+| **📅 Tech Guru** | JavaScript, JSON | Engineered platform for **4000+ registrations** |
 
 ---
 
-### 📊 Engineering Statistics
+### 📊 Real-Time Engineering Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aaradhyaprok&show_icons=true&theme=tokyonight&count_private=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaradhyaprok&layout=compact&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aaradhyaprok&theme=tokyonight" alt="Commit Streak" />
+</p>
+
 ---
 
 ### 🎖️ Certifications & Honors
-* [cite_start]**Microsoft Web Development Graduate:** Certified in building robust applications.
-* [cite_start]**Tata Cybersecurity Analyst:** IAM solution design and planning (Forage).
-* [cite_start]**GeeksforGeeks Award:** Recognized for enhanced DSA problem-solving[cite: 63].
-* [cite_start]**Competitive Chess:** Represented college at the **Divisional Level**[cite: 75].
+* **Microsoft Web Development Graduate:** Certified in building robust, production-ready applications.
+* **Tata Cybersecurity Analyst:** Specialized in IAM solution design and planning.
+* **GeeksforGeeks Award:** Recognized for advanced problem-solving in Algorithms and DSA.
+* **Competitive Chess:** Represented college at the **Divisional Level**.
 
 ---
 
