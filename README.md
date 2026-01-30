@@ -1,70 +1,63 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=Aaradhya%20Pathak&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20AI%20Specialist&descSize=25&descAlignY=60" width="100%" />
-</p>
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Aaradhya Pathak
 
 <p align="center">
-  <i>"Building the future of the web with MERN and AI, one commit at a time."</i>
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00c2ff&height=250&section=header&text=Aaradhya%20Pathak&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20|%20AI%20Engineer&descSize=25&descAlignY=60" width="100%" />
 </p>
+
+## 📊 Career Dashboard & Key Metrics
+<p align="center">
+  <img src="https://img.shields.io/badge/AIR-64_Rank-red?style=for-the-badge&logo=target&logoColor=white" alt="AIR 64" /> 
+  <img src="https://img.shields.io/badge/IIT_BOMBAY-FINALIST-orange?style=for-the-badge&logo=iit&logoColor=white" alt="IIT Bombay Finalist" /> 
+  <img src="https://img.shields.io/badge/SGPA-9.07-green?style=for-the-badge&logo=googlescholar&logoColor=white" alt="SGPA 9.07" />
+</p>
+
+### 👨‍💻 Executive Summary
+[cite_start]I am a **Full Stack Web Developer** proficient in the **MERN stack** [cite: 9] [cite_start]with a strong foundation in **Data Structures and Algorithms (Java)**[cite: 9, 24]. [cite_start]I specialize in building AI-driven platforms and robust business solutions[cite: 10, 11].
+
+- [cite_start]🏆 **Startup Arena 2.0:** Secured **2nd Prize** and reached the Zonal Round at **IIT Bombay**[cite: 18, 60, 61].
+- [cite_start]🤖 **AI Innovation:** Achieved **Top 10** at a GenAI Hackathon for "AI Base"[cite: 43].
+- [cite_start]📈 **Leadership:** Led a team of 4000+ to secure **AIR 64** in the National Entrepreneurship Challenge.
+- [cite_start]💻 **Professional:** Currently delivering **PHP & SEO** solutions at Chittaranjan Info Solutions[cite: 27, 28, 32].
 
 ---
 
-### 🏆 The Leaderboard (Data-Driven Excellence)
+### 🛠️ Technical Arsenal
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=tokyonight&column=4&margin-w=15&no-bg=true" alt="Trophies" /></a>
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center"><b>All India Rank</b><br><h1>64</h1>National Entrepreneurship Challenge</td>
-    <td align="center"><b>Academic Excellence</b><br><h1>9.07</h1>SGPA (BE Third Year)</td>
-    <td align="center"><b>Competition Rank</b><br><h1>2nd</h1>Startup Arena 2.0</td>
-  </tr>
-</table>
-
----
-
-### 💻 Technical Ecosystem
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,java,py,php,mysql,tensorflow,firebase,html,css,git,bootstrap,netlify,postman" />
-</p>
-
----
-
-### 🧪 Digital Laboratory (Core Projects)
-
-<details open>
-<summary><b>Featured Deployments 🚀</b></summary>
-<br/>
-
-- **🤖 AI Base - Interview Platform**
-  - *Recognition:* Top 10 at GenAI Hackathon.
-  - *Stack:* Gemini API, AssemblyAI, React.
-- **💼 Smart Lawyer Recommendation**
-  - *Impact:* Scaled to 350+ registered legal professionals.
-  - *Stack:* Dynamic Location-based Analytics.
-- **💰 PayTrackPro**
-  - *Role:* Spearheaded end-to-end design to deployment.
-  - *Focus:* Enterprise Financial Tracking & SEO.
-</details>
-
----
-
-### 📉 Engineering Insights
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=transparent&title_color=00c2ff&icon_color=00c2ff&text_color=ffffff" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=transparent&title_color=00c2ff&text_color=ffffff" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,java,py,php,mysql,tensorflow,firebase,html,css,git,bootstrap,netlify,postman&theme=dark" />
+  </a>
 </p>
 
 ---
 
-### ♟️ Beyond the Terminal
-- **Grandmaster Mindset:** Represented college in **Competitive Chess** at the Divisional Level.
-- **Community Catalyst:** Active Volunteer at **GDG Nashik**.
-- **Leadership:** Led a team of **4,000+ members** in national challenges.
+### 🧪 High-Impact Projects
+
+| Project | Key Tech | Outcome/Impact |
+| :--- | :--- | :--- |
+| **🤖 AI Base** | Gemini, AssemblyAI, React | [cite_start]**Top 10 Recognition** at GenAI Hackathon [cite: 43] |
+| **⚖️ Smart Lawyer** | Node.js, MongoDB, React | [cite_start]Scaled to **350+ registered** professionals  |
+| **💰 PayTrackPro** | PHP, MySQL, SEO | [cite_start]Spearheaded end-to-end development [cite: 29] |
+| **📅 Tech Guru** | JavaScript, JSON | [cite_start]Managed **4000+ user registrations** [cite: 48, 49] |
 
 ---
 
-### 🤝 Let's Architect Something Together
+### 📊 Engineering Statistics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aaradhyaprok&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaradhyaprok&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🎖️ Certifications & Honors
+* [cite_start]**Microsoft Web Development Graduate:** Certified in building robust applications.
+* [cite_start]**Tata Cybersecurity Analyst:** IAM solution design and planning (Forage).
+* [cite_start]**GeeksforGeeks Award:** Recognized for enhanced DSA problem-solving[cite: 63].
+* [cite_start]**Competitive Chess:** Represented college at the **Divisional Level**[cite: 75].
+
+---
+
+### 📫 Connect with Me
 <p align="center">
 <a href="https://linkedin.com/in/aaradhyapathak17"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://portfolioaaradhya.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
@@ -72,5 +65,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/Aaradhyaprok/Aaradhyaprok/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
