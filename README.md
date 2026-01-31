@@ -48,7 +48,8 @@ I am a **Full Stack Web Developer** proficient in the **MERN stack** with a stro
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aaradhyaprok&theme=tokyonight" alt="Commit Streak" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=Aaradhyaprok&theme=tokyonight" />
+
 </p>
 
 ---
