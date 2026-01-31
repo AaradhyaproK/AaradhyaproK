@@ -47,6 +47,8 @@ I am a **Full Stack Web Developer** proficient in the **MERN stack** with a stro
 
 ## 📊 Engineering Insights
 
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Aaradhyaprok&theme=tokyonight&hide_border=true" /> </p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aaradhyaprok/Aaradhyaprok/main/github-metrics.svg" />
 </p>
