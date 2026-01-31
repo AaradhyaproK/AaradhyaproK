@@ -45,24 +45,16 @@ I am a **Full Stack Web Developer** proficient in the **MERN stack** with a stro
 
 ---
 
-## 📊 Real-Time Engineering Stats
+## 📊 Engineering Insights
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Aaradhyaprok&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaradhyaprok&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-  />
+  <img src="https://raw.githubusercontent.com/Aaradhyaprok/Aaradhyaprok/main/github-metrics.svg" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Aaradhyaprok&theme=tokyonight&hide_border=true"
-  />
+  <img src="https://raw.githubusercontent.com/Aaradhyaprok/Aaradhyaprok/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 
 ---
