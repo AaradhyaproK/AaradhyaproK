@@ -31,8 +31,8 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -41,9 +41,9 @@
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -219,12 +219,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="383.67483587821596" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="383.67483587821596" y="0" width="53.00839851714384" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="436.68323439535976" y="0" width="8.940374453239485" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="445.6236088485993" y="0" width="6.689241682603705" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="452.312850531203" y="0" width="5.206816967695176" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="457.5196674988982" y="0" width="2.4803325011018353" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="383.6869769548588" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="383.6869769548588" y="0" width="52.99996644842164" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="436.6869434032804" y="0" width="8.938952304034817" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="445.62589570731524" y="0" width="6.688177622055849" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="452.31407332937107" y="0" width="5.205988717083505" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="457.5200620464546" y="0" width="2.479937953545443" height="8" fill="#DA5B0B"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
