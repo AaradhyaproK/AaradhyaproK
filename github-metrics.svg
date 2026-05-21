@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            286 Commits
+                            292 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,12 +219,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="399.58620473349913" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="399.58620473349913" y="0" width="41.63277200276146" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="441.2189767362606" y="0" width="7.319241495106297" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="448.5382182313669" y="0" width="5.406728359858566" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="453.94494659122546" y="0" width="4.117399710723195" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="458.06234630194865" y="0" width="1.9376536980513315" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="399.6282415779058" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="399.6282415779058" y="0" width="41.65821533241701" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="441.2864569103228" y="0" width="7.292943476986776" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="448.5794003873096" y="0" width="5.3873019971036324" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="453.9667023844132" y="0" width="4.102605902885278" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="458.0693082872985" y="0" width="1.9306917127015129" height="8" fill="#DA5B0B"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -236,7 +236,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>7.42 MB</div>
+                                <div>7.45 MB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -271,7 +271,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>773 kB</div>
+                                <div>776 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -316,7 +316,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AaradhyaproK/interviewxpertopenlink</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
